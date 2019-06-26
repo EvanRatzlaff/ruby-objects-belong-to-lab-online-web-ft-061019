@@ -7,4 +7,4 @@ class Post
   
 end 
 
-Post.title
+#Post.title
